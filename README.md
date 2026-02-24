@@ -55,7 +55,7 @@ Workforce analytics dashboard focused on:
 ✔ Hiring & Workforce Patterns  
 ✔ Performance Indicators  
 
-<img src="images/hr-dashboard.png" width="100%"/>
+<img src="images/hr-dashboard.PNG" width="100%"/>
 
 ---
 
