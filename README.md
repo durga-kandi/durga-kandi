@@ -67,7 +67,7 @@ Customer behavior & retention analytics:
 ✔ Behavioral Trends  
 ✔ Retention Insights  
 
-<img src="images/churn-dashboard.png" width="100%"/>
+<img src="images/Customer Churn Overview.PNG" width="100%"/>
 
 ---
 
