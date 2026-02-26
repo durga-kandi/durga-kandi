@@ -80,7 +80,8 @@ Financial performance & risk dashboard:
 ✔ Risk Indicators  
 ✔ KPI-driven Insights  
 
-<img src="images/credit-risk-dashboard.png" width="100%"/>
+<img src="images/Portfolio_Overview.PNG" width="100%"/>
+<img src="images/Risk_Default_Analysis.PNG" width="100%"/>
 
 ---
 
