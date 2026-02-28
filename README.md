@@ -93,7 +93,7 @@ Operational efficiency dashboard:
 ✔ Agent Performance  
 ✔ Service Metrics  
 
-<img src="images/call-centre-dashboard.png" width="100%"/>
+<img src="images/Performance_Overview.PNG" width="100%"/>
 
 ---
 
