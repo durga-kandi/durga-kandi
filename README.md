@@ -105,7 +105,10 @@ Interactive operational reporting:
 ✔ Drill-down Analysis  
 ✔ Dynamic Filters  
 
-<img src="images/supply-chain-dashboard.png" width="100%"/>
+<img src="images/Executive_Overview.PNG" width="100%"/>
+<img src="images/Product_Analysis.PNG" width="100%"/>
+<img src="images/Operational_Drilldown.PNG" width="100%"/>
+
 
 ---
 
